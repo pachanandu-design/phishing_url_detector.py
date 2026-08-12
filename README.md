@@ -79,15 +79,19 @@ The application provides a dark-themed cybersecurity dashboard containing:
 
 ### Main Dashboard
 
-![Main Dashboard](Screenshot_1.png)
+![Main Dashboard](Screenshot%20%28117%29.png)
 
-### Suspicious URL Analysis
+### URL Analysis
 
-![Suspicious URL](Screenshot_2.png)
+![URL Analysis](Screenshot%20%28118%29.png)
 
-### High-Risk URL Analysis
+### Suspicious URL Detection
 
-![High-Risk URL](Screenshot_3.png)
+![Suspicious URL](Screenshot%20%28119%29.png)
+
+### Security Assessment
+
+![Security Assessment](Screenshot%20%28121%29.png)
 
 ---
 

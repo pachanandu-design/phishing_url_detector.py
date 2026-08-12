@@ -118,4 +118,10 @@ https://www.python.org/downloads/
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/phishing-url-detector.git
+git clone https://github.com/pachanandu-design/phishing-url-detector.git
+
+## 👩‍💻 Author
+
+Pacha Nandini
+
+GitHub: https://github.com/pachanandu-design

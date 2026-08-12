@@ -121,7 +121,7 @@ https://www.python.org/downloads/
 git clone https://github.com/pachanandu-design/phishing-url-detector.git
 
 
-
+---
 
 ## 👩‍💻 **Author**
 
